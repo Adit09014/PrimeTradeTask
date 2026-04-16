@@ -81,7 +81,7 @@ TaskFlow is a full-stack task management application that allows users to:
 
 ```bash
 git clone https://github.com/Adit09014/PrimeTradeTask
-cd taskflow
+cd PrimeTradeTask
 ```
 
 ---
