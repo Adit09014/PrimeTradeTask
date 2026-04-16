@@ -80,7 +80,7 @@ TaskFlow is a full-stack task management application that allows users to:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Adit09014/PrimeTradeTask
 cd taskflow
 ```
 
